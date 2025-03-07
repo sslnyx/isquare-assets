@@ -1,0 +1,8 @@
+# macOS system files
+.DS_Store
+
+# Common editor/system files
+*.log
+.idea/
+*.swp
+Thumbs.db
